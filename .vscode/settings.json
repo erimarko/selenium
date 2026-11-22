@@ -1,0 +1,21 @@
+
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.indexing": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "selenium",
+            "depth": 3,
+            "includeAllSymbols": true
+        }
+    ],
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.hover.enabled": "on",
+    "editor.parameterHints.enabled": true
+}
